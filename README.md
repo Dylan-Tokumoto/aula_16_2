@@ -1,2 +1,2 @@
 # aula_16_2
-https://github.com/Dylan-Tokumoto/aula_16_2
+https://dylan-tokumoto.github.io/aula_16_2/
